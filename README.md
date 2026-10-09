@@ -1,4 +1,4 @@
-# Task 2: Missing Values and Outlier Removal
+# Missing Values and Outlier Removal
 
 ## Objective
 Use Pandas only to detect and handle missing values, detect outliers statistically, and save a cleaned dataset.
